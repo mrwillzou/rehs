@@ -1,0 +1,9 @@
+How to compile C code:
+
+%> gcc -o run ./CCS.c
+
+How to run C code:
+
+%> ./run <data file path as output from python parser>
+
+** change debug to 0 to hide debug print out
