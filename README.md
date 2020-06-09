@@ -1,13 +1,13 @@
 # rehs
 code is located in /src
 
-#==================================================================================
+#=================================================================================
 
 CRS.py :: converts coordinate form to Compressed Row form CRS_random.py :: converts to compressed row format with randomized columns
 
 VEC.py :: initializes an array/vector of size N contaiing random integers (1-9)
 
-spmv_timer.c :: performs the sparse matrix vector multiplication #==================================================================================
+spmv_timer.c :: performs the sparse matrix vector multiplication #=================================================================================
 
 CALLING FUNCTIONS:
 
